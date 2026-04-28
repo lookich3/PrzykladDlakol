@@ -12,6 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="Delete{id}\DTOs\" />
       <Folder Include="getall\Exception\" />
       <Folder Include="getById\" />
     </ItemGroup>
